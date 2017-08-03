@@ -1,6 +1,6 @@
 {
   "name": "jest-enzyme-selector-exists",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A custom matcher to be extended by Jest, to allow you to check existence of enzyme selectors",
   "main": "build.js",
   "scripts": {
