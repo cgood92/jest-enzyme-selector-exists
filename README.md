@@ -19,9 +19,9 @@ If you have a `jest-setup.js` file, I suggest putting the following code in ther
 If not, you can add the following code to the test file from which you are doing your assertions:
 
 ```js
-import jestEnzymeSelectorExists from "./index"
+import toExist from "./index"
 
-expect.extend(jestEnzymeSelectorExists)
+expect.extend(toExist)
 ```
 
 #### Assert
