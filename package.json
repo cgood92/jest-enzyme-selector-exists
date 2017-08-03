@@ -17,6 +17,7 @@
     "exists",
     "toExist"
   ],
+  "files": ["index.js"],
   "author": "Clint Goodman",
   "license": "ISC",
   "bugs": {
