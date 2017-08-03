@@ -1,0 +1,31 @@
+{
+  "name": "jest-enzyme-selector-exists",
+  "version": "1.0.0",
+  "description": "A custom matcher to be extended by Jest, to allow you to check existence of enzyme selectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgood92/jest-enzyme-selector-exists.git"
+  },
+  "keywords": [
+    "jest",
+    "matcher",
+    "enzyme",
+    "exists",
+    "toExist"
+  ],
+  "author": "Clint Goodman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgood92/jest-enzyme-selector-exists/issues"
+  },
+  "homepage": "https://github.com/cgood92/jest-enzyme-selector-exists#readme",
+  "dependencies": {
+    "babel-jest": "^20.0.3",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^20.0.4"
+  }
+}
